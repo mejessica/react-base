@@ -26,4 +26,4 @@ Para rodar o projeto, basta clonar o repositório na sua máquina.
 Use o comando ```npm i``` para baixar as dependências do projeto 
 Após isso use o comando ```npm start``` para iniciar o servidor local.
 
-
+#### Ou acesse o seu [deploy](https://react-base-git-main-mejessica.vercel.app/)
